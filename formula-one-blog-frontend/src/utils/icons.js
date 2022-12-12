@@ -1,0 +1,13 @@
+export { default as ArrowIcon } from "../assets/Icons/arrow-right-light.svg";
+export { default as EditIcon } from "../assets/Icons/edit-regular.svg";
+export { default as DeleteIcon } from "../assets/Icons/trash-regular.svg";
+export { default as YoutubeIcon } from "../assets/Icons/youtube-brands.svg";
+export { default as TwitterIcon } from "../assets/Icons/twitter-brands.svg";
+export { default as LinkedInIcon } from "../assets/Icons/linkedin-brands.svg";
+export { default as InstagramIcon } from "../assets/Icons/instagram-brands.svg";
+export { default as MenuIcon } from "../assets/Icons/bars-regular.svg";
+export { default as EmailIcon } from "../assets/Icons/envelope-regular.svg";
+export { default as PasswordIcon } from "../assets/Icons/lock-alt-solid.svg";
+export { default as UserIcon } from "../assets/Icons/user-alt-light.svg";
+export { default as AdminIcon } from "../assets/Icons/user-crown-light.svg";
+export { default as SignOutIcon } from "../assets/Icons/sign-out-alt-regular.svg";
